@@ -1,4 +1,6 @@
-app:
-	npm run build --prefix=react-ssr-example
+webapp:
+	npm run build --prefix=webapp
 	rm -rf static/*
-	mv react-ssr-example/build/* static/
+	mv webapp/build/* static/
+
+.PHONY: webapp

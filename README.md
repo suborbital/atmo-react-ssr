@@ -4,7 +4,7 @@ This is a demo application running React server-side rendering inside Atmo's Was
 
 ### Build and run
 ```
-make app
+make webapp
 subo build .
 subo dev
 ```

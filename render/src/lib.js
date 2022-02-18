@@ -3,7 +3,7 @@ import { log, request } from "@suborbital/runnable";
 import React from 'react';
 import ReactDOMServer from 'react-dom/server';
 
-import App from '../../react-ssr-example/src/App.jsx';
+import App from '../../webapp/src/App.jsx';
 
 export const run = (_) => {
   log.info("rendering page")
