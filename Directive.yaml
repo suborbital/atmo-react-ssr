@@ -4,7 +4,7 @@
 
 identifier: com.suborbital.atmo-ssr
 appVersion: v0.1.0
-atmoVersion: v0.4.2
+atmoVersion: v0.4.4
 
 
 handlers:
